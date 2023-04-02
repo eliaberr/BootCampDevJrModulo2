@@ -55,7 +55,7 @@ h3{
 .coluna2{
     background-color: #009494;
     width: 50%;
-    padding: 20px;
+    padding: 15px 15px ;
 }
 
 button{
@@ -70,4 +70,7 @@ button{
     
 }
 
+.img{
+    text-align: center;
+}
 
