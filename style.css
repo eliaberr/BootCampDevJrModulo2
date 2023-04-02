@@ -9,7 +9,7 @@ body{
     width: 600px;
     box-shadow: 5px 6px 10px 1px rgba(0, 0, 0, 0.2) ;
     border-radius: 5px;
-    padding: 20px;
+    padding: 1.2rem;
        
 
 }
@@ -22,13 +22,13 @@ body{
 }
 h1{
     color: #006f6f;
-    padding-bottom:  20px;
+    padding-bottom:  1.2rem;
     
 }
 
 h3{
     color: #009494;;
-    padding-bottom: 10px;
+    padding-bottom: 0.6rem;
     
 }
 .txtAssinatura{
@@ -38,8 +38,8 @@ h3{
 }
 .valor{
     font-weight: bold;
-    font-size: 30px;
-    padding-right: 15px;
+    font-size: 1.9rem;
+    padding-right: 0.9rem;
 }
 
 .mes{
@@ -49,18 +49,18 @@ h3{
 .coluna1{
     background-color: #006969;
     width: 50%;
-    padding: 20px;
+    padding: 1.2rem;
     
 }
 .coluna2{
     background-color: #009494;
     width: 50%;
-    padding: 15px 15px ;
+    padding: 0,9rem 0,9rem ;
 }
 
 button{
     background-color:  #cccccc;
-    padding: 10px;
+    padding: 0.6rem;
     width: 100%;
     height: 40px;
     border-radius: 2px;
